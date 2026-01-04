@@ -16,6 +16,7 @@ AutoRecordOBS is a system-tray-based utility that automatically detects when you
 Download the latest release .exe from GitHub Releases.
 
 Ensure OBS is running with the WebSocket plugin active.
+> In the latest version of OBS, this can be done by navigating to **Tools > WebSocket Server Settings** and enabling the **WebSocket Server**.
 
 Run AutoRecordOBS.exe. The app will appear in your system tray.
 
